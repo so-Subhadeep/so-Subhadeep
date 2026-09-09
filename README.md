@@ -1,156 +1,78 @@
-<h1 align="center">Hi 👋, I'm Subhadeep Maji</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 CSE Student | ☕ Java Developer | 🤖 AI & Data Science Enthusiast
-</h3>
+# Hi 👋, I'm Subhadeep Maji
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SO-Subhadeep&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+**CSE Student • Java • AI & Data Science**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhadeepmaji29/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Subhadeep29/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:subhadeepmaji917@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=SO-Subhadeep&style=flat&color=blue&label=Profile+Views)
 
-# 👨‍💻 About Me
+</div>
 
-- 🎓 I'm a **Computer Science Engineering student**
-- ☕ Currently learning **Java and Data Structures & Algorithms**
-- 🤖 Exploring **Artificial Intelligence, Machine Learning & Data Science**
-- 📊 Interested in solving real-world problems using **Data and AI**
-- 🚀 Building projects and participating in hackathons
-- 🌱 Currently improving my **DSA and problem-solving skills**
-- 💬 Ask me about **Java, Python, AI, Data Science and GitHub**
-- ⚡ Fun fact: **I learn fastest by building things and breaking them 😄**
+<br>
 
----
+### 👨‍💻 About Me
 
-# 🌐 Connect With Me
+- 🎓 CSE student passionate about technology and problem-solving
+- ☕ Learning **Java & DSA**
+- 🤖 Exploring **AI, Machine Learning & Data Science**
 
-<p align="left">
+<br>
 
-<a href="https://www.linkedin.com/in/subhadeepmaji29/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 💻 Tech Stack
 
-<a href="https://leetcode.com/u/Subhadeep29/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
+**Languages**
 
-<a href="mailto:subhadeepmaji917@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+![Skills](https://skillicons.dev/icons?i=java,py,js,html,css)
 
-</p>
+**AI & Data**
 
----
+![Skills](https://skillicons.dev/icons?i=py,jupyter)
 
-# 💻 Tech Stack
+**Tools**
 
-### 👨‍💻 Programming Languages
+![Skills](https://skillicons.dev/icons?i=git,github,vscode)
 
-<p>
+<br>
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
+### 🚀 Featured Projects
 
-</p>
+#### 🏛️ [CivicFix AI](https://github.com/SO-Subhadeep/CivicFix-AI)
 
-### 🤖 AI & Data Science
+Civic issue reporting platform to report and track community problems.
 
-<p>
+`JavaScript` • `React` • `Firebase` • `Google Maps`
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+#### 🌾 [Seasonal Agriculture Performance Analysis](https://github.com/SO-Subhadeep/Seasonal-Agriculture-Performance-Analysis)
 
-</p>
+Data analysis of agricultural performance and seasonal trends.
 
-### 📊 Data Analysis & Development
+`Python` • `Jupyter Notebook` • `Data Analysis`
 
-<p>
+#### ☕ [CodeSoft Java](https://github.com/SO-Subhadeep/CodeSoft-Java)
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,jupyter"/>
+Java projects built during my CodeSoft internship.
 
-</p>
+`Java` • `OOP` • `Problem Solving`
 
----
+<br>
 
-# 🚀 Featured Projects
+### 📊 GitHub Stats
 
-## 🏛️ CivicFix AI
+<div align="center">
 
-🔹 A civic issue reporting platform designed to help users report and track civic problems.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SO-Subhadeep&show_icons=true&theme=dark&hide_border=true" />
 
-**Tech:** JavaScript • React • Firebase • Google Maps
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SO-Subhadeep&layout=compact&theme=dark&hide_border=true" />
 
-👉 [View Repository](https://github.com/SO-Subhadeep/CivicFix-AI)
+</div>
 
----
+<br>
 
-## 🌾 Seasonal Agriculture Performance Analysis
+<div align="center">
 
-🔹 A data analysis project focused on analyzing agricultural performance and seasonal patterns.
+*"Code. Learn. Build. Improve."*
 
-**Tech:** Python • Jupyter Notebook • Data Analysis
-
-👉 [View Repository](https://github.com/SO-Subhadeep/Seasonal-Agriculture-Performance-Analysis)
-
----
-
-## ☕ CodeSoft Java Projects
-
-🔹 A collection of Java programming projects developed during my CodeSoft internship.
-
-**Tech:** Java • OOP • Problem Solving
-
-👉 [View Repository](https://github.com/SO-Subhadeep/CodSoft-Java)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SO-Subhadeep&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SO-Subhadeep&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SO-Subhadeep&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SO-Subhadeep&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SO-Subhadeep&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
-
-</p>
-
----
-
-# 🧠 Currently Learning
-
-```text
-☕ Advanced Java & OOP
-📊 Data Structures & Algorithms
-🤖 Artificial Intelligence & Machine Learning
-📈 Data Science & Data Analysis
-🐍 Python for AI & Data Science
-🚀 Building Real World Projects
+</div>
