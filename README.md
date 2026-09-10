@@ -40,18 +40,3 @@ I am a Computer Science Engineering student currently focused on Java and Data S
 
 ---
 
-# 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=so-Subhadeep&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" width="560"/>
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=so-Subhadeep&theme=dark&hide_border=false" width="620"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=so-Subhadeep&layout=compact&theme=dark&hide_border=false" width="375"/>
-</p>
-
----
