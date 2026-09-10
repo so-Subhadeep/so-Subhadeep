@@ -38,29 +38,20 @@ I am a Computer Science Engineering student currently focused on Java and Data S
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
 # 📊 GitHub Stats:
 
-<div align="left">
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=so-Subhadeep&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" width="560"/>
+</p>
 
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=so-Subhadeep&show_icons=true&theme=dark&hide_border=false&include_all_commits=true"
-  width="560"
-/>
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=so-Subhadeep&theme=dark&hide_border=false" width="620"/>
+</p>
 
-<br><br>
-
-<img
-  src="https://streak-stats.demolab.com?user=so-Subhadeep&theme=dark&hide_border=false"
-  width="620"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=so-Subhadeep&layout=compact&theme=dark&hide_border=false"
-  width="375"
-/>
-
-</div>
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=so-Subhadeep&layout=compact&theme=dark&hide_border=false" width="375"/>
+</p>
 
 ---
