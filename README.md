@@ -42,19 +42,26 @@ I am a Computer Science Engineering student currently focused on Java and Data S
 
 # 📊 GitHub Stats:
 
-<div align="center">
+<div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=so-Subhadeep&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=so-Subhadeep&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+  width="560"
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=so-Subhadeep&theme=dark&hide_border=false" height="180"/>
+<br><br>
 
-</div>
+<img
+  src="https://streak-stats.demolab.com?user=so-Subhadeep&theme=dark&hide_border=false"
+  width="560"
+/>
 
-<br>
+<br><br>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=so-Subhadeep&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=so-Subhadeep&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+  width="375"
+/>
 
 </div>
 
