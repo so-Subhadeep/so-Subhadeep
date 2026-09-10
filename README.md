@@ -45,7 +45,7 @@ I am a Computer Science Engineering student currently focused on Java and Data S
 <div align="left">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=so-Subhadeep&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=so-Subhadeep&show_icons=true&theme=dark&hide_border=false&include_all_commits=true"
   width="560"
 />
 
@@ -53,13 +53,13 @@ I am a Computer Science Engineering student currently focused on Java and Data S
 
 <img
   src="https://streak-stats.demolab.com?user=so-Subhadeep&theme=dark&hide_border=false"
-  width="560"
+  width="620"
 />
 
 <br><br>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=so-Subhadeep&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=so-Subhadeep&layout=compact&theme=dark&hide_border=false"
   width="375"
 />
 
