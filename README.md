@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:00D9FF,100:0D1117&amp;height=220&amp;section=header&amp;text=Hi%20There%2C%20I%27m%20Subhadeep%20%E2%9A%A1&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=CS%20Engineering%20Student%20%7C%20Java%20%26%20DSA%20%7C%20Exploring%20AI&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:00D9FF,100:0D1117&amp;height=220&amp;section=header&amp;text=Hi%20There%2C%20I%27m%20Subhadeep%20%E2%9A%A1&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=CS%20Engineering%20Student%20%7C%20Java%20%26%20DSA%20%7C%20Exploring%20AI&amp;descAlignY=55&amp;descSize=18&amp;v=2" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%3E+booting+subhadeep.dev...;CS+Engineering+Student;Java+%26+DSA+Enthusiast;Exploring+AI+%26+Data+Science;Building+CivicFix+AI+%F0%9F%9A%80" alt="Typing SVG" />
