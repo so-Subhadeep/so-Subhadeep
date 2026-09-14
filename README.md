@@ -1,7 +1,12 @@
 <div align="center">
 
-# Hi, I'm Subhadeep Maji 👋
-### CS Engineering Student &nbsp;|&nbsp; Java & DSA &nbsp;|&nbsp; Exploring AI
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:00D9FF,100:0D1117&amp;height=200&amp;section=header&amp;text=Hi%20There%2C%20I%27m%20Subhadeep%20%E2%9A%A1&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=CS+Engineering+Student;Java+%26+DSA+Enthusiast;Exploring+AI+%26+Data+Science;Building+CivicFix+AI+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/subhadeepmaji29"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:subhadeepmaji917@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
