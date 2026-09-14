@@ -1,12 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:00D9FF,100:0D1117&amp;height=200&amp;section=header&amp;text=Hi%20There%2C%20I%27m%20Subhadeep%20%E2%9A%A1&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:00D9FF,100:0D1117&amp;height=220&amp;section=header&amp;text=Hi%20There%2C%20I%27m%20Subhadeep%20%E2%9A%A1&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=CS%20Engineering%20Student%20%7C%20Java%20%26%20DSA%20%7C%20Exploring%20AI&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=CS+Engineering+Student;Java+%26+DSA+Enthusiast;Exploring+AI+%26+Data+Science;Building+CivicFix+AI+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%3E+booting+subhadeep.dev...;CS+Engineering+Student;Java+%26+DSA+Enthusiast;Exploring+AI+%26+Data+Science;Building+CivicFix+AI+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=so-Subhadeep&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/so-Subhadeep?color=00D9FF&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/subhadeepmaji29"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:subhadeepmaji917@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
