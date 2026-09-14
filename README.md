@@ -8,9 +8,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=so-Subhadeep&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/so-Subhadeep?color=00D9FF&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white)
-
 </div>
 
 ---
