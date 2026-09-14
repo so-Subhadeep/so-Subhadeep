@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D9FF,100:00FF88&amp;height=180&amp;section=header&amp;text=Subhadeep%20Maji&amp;fontSize=42&amp;fontColor=0d1117&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=CS%20Engineering%20Student%20%7C%20Java%20%26%20DSA%20%7C%20Exploring%20AI&amp;descAlignY=58&amp;descSize=16" width="100%"/>
+# Hi, I'm Subhadeep Maji 👋
+### CS Engineering Student &nbsp;|&nbsp; Java & DSA &nbsp;|&nbsp; Exploring AI
 
 <a href="https://www.linkedin.com/in/subhadeepmaji29"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:subhadeepmaji917@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -42,11 +43,6 @@ Computer Science student building projects around Java, DSA and applied AI. Curr
 
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=so-Subhadeep&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=00D9FF&amp;icon_color=00FF88&amp;text_color=c9d1d9" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=so-Subhadeep&amp;hide_border=true&amp;background=0d1117&amp;ring=00D9FF&amp;fire=00FF88&amp;currStreakLabel=00D9FF&amp;sideLabels=c9d1d9&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=8b949e" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=so-Subhadeep&amp;bg_color=0d1117&amp;color=00D9FF&amp;line=00FF88&amp;point=ffffff&amp;hide_border=true" width="100%"/>
 </div>
 
 <br/>
