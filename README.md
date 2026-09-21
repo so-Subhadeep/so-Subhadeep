@@ -77,4 +77,4 @@ Computer Science student building projects around Java, DSA and applied AI. Curr
 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=so-subhadeep&color=FC4930&style=for-the-badge&label=PROFILE+VIEWS" />
+
