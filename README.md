@@ -1,80 +1,196 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/so-Subhadeep/so-Subhadeep/main/banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A12,45:4C1D95,75:DB2777,100:EC4899&height=220&section=header&text=Hey%20!!%20Subhadeep%20this%20side%20%F0%9F%8C%B8&fontSize=44&fontColor=F5F3FF&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Learner%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=17&descColor=F5F3FF" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%3E+booting+subhadeep.dev...;CS+Engineering+Student;Java+%26+DSA+Enthusiast;Exploring+AI+%26+Data+Science;Building+CivicFix+AI+%F0%9F%9A%80" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=F9A8D4&center=true&vCenter=true&width=700&height=45&lines=Java+Developer+%F0%9F%92%BB;DSA+%2B+LeetCode+Enthusiast+%F0%9F%9A%80;Exploring+AI+%26+Data+Science+%F0%9F%A4%96;Building+CivicFix+AI+%F0%9F%8C%B8;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%E2%9C%A8" alt="Typing SVG"/>
+
+<br>
+
+<a href="https://www.linkedin.com/in/subhadeepmaji29">
+<img src="https://img.shields.io/badge/LinkedIn-0D0A12?style=for-the-badge&logo=linkedin&logoColor=F9A8D4"/>
 </a>
 
-<br/>
+<a href="mailto:subhadeepmaji917@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0D0A12?style=for-the-badge&logo=gmail&logoColor=F9A8D4"/>
+</a>
+
+<a href="https://x.com/SubhadeepMaji29">
+<img src="https://img.shields.io/badge/X-0D0A12?style=for-the-badge&logo=x&logoColor=F9A8D4"/>
+</a>
+
+<a href="https://leetcode.com/u/Subhadeep29/">
+<img src="https://img.shields.io/badge/LeetCode-0D0A12?style=for-the-badge&logo=leetcode&logoColor=F9A8D4"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/SubhadeepMaji29">
+<img src="https://img.shields.io/badge/HackerRank-0D0A12?style=for-the-badge&logo=hackerrank&logoColor=F9A8D4"/>
+</a>
+
+<a href="https://github.com/so-Subhadeep">
+<img src="https://img.shields.io/badge/GitHub-0D0A12?style=for-the-badge&logo=github&logoColor=F9A8D4"/>
+</a>
 
 </div>
 
----
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/subhadeepmaji29"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:subhadeepmaji917@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://x.com/SubhadeepMaji29"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://leetcode.com/u/Subhadeep29/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.hackerrank.com/profile/SubhadeepMaji29"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A12,50:DB2777,100:4C1D95&height=2&section=header" width="82%"/>
 
 </div>
 
-### 👋 About Me
-Computer Science student building projects around Java, DSA and applied AI. Currently deep in Data Structures & Algorithms while exploring AI/Data Science on the side. I like solving problems more than talking about solving them 🚀
+## 🌸 About Me
 
-<br/>
+<table width="100%">
+<tr>
 
-### 🛠️ Tech Stack
+<td width="60%" valign="top">
+
+### Hey! I'm Subhadeep 👋
+
+I'm a **B.Tech Computer Science student** interested in software development, backend engineering, problem solving, and AI & Data Science.
+
+* 🎓 B.Tech CSE Student
+* ☕ Currently building with **Java**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🚀 Solving problems on **LeetCode**
+* 🤖 Exploring **AI & Data Science**
+* 💻 Building real-world projects
+* 🌸 Creator of **CivicFix AI**
+* 📍 Kolkata, India
+
+</td>
+
+<td width="40%" valign="top" align="center">
+
+### 🌸
+
+```text
+    ✦    .    🌸    .    ✦
+       ╲  │  ╱
+     ──  CODE  ──
+       ╱  │  ╲
+    🌸    │    🌸
+       JAVA • DSA
+      AI • BUILD
+```
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:DB2777,75:F9A8D4,100:4C1D95&height=2&section=header" width="82%"/>
+</div>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://img.shields.io/badge/Java-4C1D95?style=for-the-badge&logo=openjdk&logoColor=F9A8D4"/>
+<img src="https://img.shields.io/badge/C%2B%2B-5B21B6?style=for-the-badge&logo=cplusplus&logoColor=E9D5FF"/>
+<img src="https://img.shields.io/badge/C-6D28D9?style=for-the-badge&logo=c&logoColor=F5D0FE"/>
+<img src="https://img.shields.io/badge/Python-7E22CE?style=for-the-badge&logo=python&logoColor=F9A8D4"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-9D174D?style=for-the-badge&logo=html5&logoColor=FBCFE8"/>
+<img src="https://img.shields.io/badge/CSS3-BE185D?style=for-the-badge&logo=css3&logoColor=FBCFE8"/>
+<img src="https://img.shields.io/badge/React-4C1D95?style=for-the-badge&logo=react&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/Firebase-5B21B6?style=for-the-badge&logo=firebase&logoColor=FDE68A"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/NumPy-4C1D95?style=for-the-badge&logo=numpy&logoColor=C4B5FD"/>
+<img src="https://img.shields.io/badge/Pandas-5B21B6?style=for-the-badge&logo=pandas&logoColor=F9A8D4"/>
+<img src="https://img.shields.io/badge/Matplotlib-6D28D9?style=for-the-badge&logo=matplotlib&logoColor=F9A8D4"/>
+<img src="https://img.shields.io/badge/Jupyter-7E22CE?style=for-the-badge&logo=jupyter&logoColor=F9A8D4"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Git-9D174D?style=for-the-badge&logo=git&logoColor=FBCFE8"/>
+<img src="https://img.shields.io/badge/GitHub-0D0A12?style=for-the-badge&logo=github&logoColor=F5F3FF"/>
+<img src="https://img.shields.io/badge/VS%20Code-4C1D95?style=for-the-badge&logo=visualstudiocode&logoColor=67E8F9"/>
 
 </div>
 
-<br/>
-
-### 📊 GitHub Stats
-
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=so-Subhadeep&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=00D9FF&amp;icon_color=00FF88&amp;text_color=c9d1d9" height="165"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:DB2777,75:F9A8D4,100:4C1D95&height=2&section=header" width="82%"/>
 </div>
 
-<br/>
+## 📊 GitHub Activity
 
 <div align="center">
 
-### 🐍 Contribution Snake
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img
+src="./profile/github-stats.svg"
+width="420"
+alt="GitHub Stats"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+src="./profile/languages.svg"
+width="420"
+alt="Top Languages"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:DB2777,75:F9A8D4,100:4C1D95&height=2&section=header"
+width="82%"
+/>
+
+</div>
+
+## 🌸 Contribution Snake
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/so-Subhadeep/so-Subhadeep/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/so-Subhadeep/so-Subhadeep/output/github-contribution-grid-snake.svg" width="100%" />
+
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/so-Subhadeep/so-Subhadeep/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/so-Subhadeep/so-Subhadeep/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/so-Subhadeep/so-Subhadeep/output/github-contribution-grid-snake.svg"
+ alt="GitHub Contribution Snake"
+ width="90%"
+/>
+
 </picture>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-📍 Kolkata &nbsp;•&nbsp; Open to Java / backend opportunities
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F9A8D4&center=true&vCenter=true&width=550&height=35&lines=Thanks+for+visiting+my+profile!+%F0%9F%8C%B8;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Growing+%E2%9C%A8" alt="Footer Typing"/>
 
 </div>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,40:DB2777,70:7C3AED,100:0D0A12&height=110&section=footer" width="100%"/>
