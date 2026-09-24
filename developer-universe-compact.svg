@@ -1,0 +1,95 @@
+<svg width="390" height="190" viewBox="0 0 390 190"
+xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="8"/></filter>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ff7fa5"/><stop offset="1" stop-color="#a970ff"/>
+  </linearGradient>
+  <style>
+    .spin{animation:spin 12s linear infinite;transform-origin:195px 95px}
+    .pulse{animation:pulse 2.3s ease-in-out infinite;transform-origin:195px 95px}
+    .float{animation:float 3s ease-in-out infinite}
+    .dash{animation:dash 3s linear infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    @keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.06)}}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+    @keyframes dash{to{stroke-dashoffset:-30}}
+    @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+</defs>
+
+<rect width="390" height="190" rx="12" fill="#151b24"/>
+
+<!-- subtle glow -->
+<circle cx="195" cy="95" r="55" fill="#a970ff" opacity=".07" filter="url(#soft)"/>
+
+<!-- orbit -->
+<ellipse cx="195" cy="95" rx="104" ry="58" fill="none"
+ stroke="#fff" stroke-opacity=".08" stroke-dasharray="3 7" class="dash"/>
+<ellipse cx="195" cy="95" rx="67" ry="82" fill="none"
+ stroke="#ff7fa5" stroke-opacity=".08" transform="rotate(32 195 95)"/>
+
+<!-- connections -->
+<g stroke="url(#g)" stroke-width="1" stroke-dasharray="4 6" opacity=".65" class="dash">
+ <path d="M195 95L120 58"/><path d="M195 95L270 58"/>
+ <path d="M195 95L120 132"/><path d="M195 95L270 132"/>
+</g>
+
+<!-- orbiting dots -->
+<g class="spin" filter="url(#glow)">
+ <circle cx="299" cy="95" r="2.5" fill="#ff8eae"/>
+ <circle cx="91" cy="95" r="2" fill="#a970ff"/>
+</g>
+
+<!-- flowers -->
+<g fill="#ff8eae" font-size="15">
+ <text x="70" y="35">✿</text><text x="302" y="38">✿</text>
+ <text x="62" y="160">✿</text><text x="311" y="158">✿</text>
+</g>
+
+<!-- small code particles -->
+<g font-family="monospace" font-size="8" fill="#7e8999" opacity=".7">
+ <text x="22" y="50">{ }</text><text x="347" y="53">&lt;/&gt;</text>
+ <text x="20" y="112">01</text><text x="350" y="112">101</text>
+ <text x="24" y="145">while()</text><text x="327" y="145">AI.exe</text>
+</g>
+
+<!-- skill pills: compact and fully inside -->
+<g font-family="monospace" text-anchor="middle">
+ <g class="float">
+  <rect x="83" y="43" width="64" height="25" rx="7" fill="#161d27" stroke="#fff" stroke-opacity=".11"/>
+  <text x="115" y="59" font-size="9" font-weight="bold" fill="#fff">JAVA</text>
+ </g>
+
+ <g class="float" style="animation-delay:.4s">
+  <rect x="243" y="43" width="64" height="25" rx="7" fill="#161d27" stroke="#fff" stroke-opacity=".11"/>
+  <text x="275" y="59" font-size="9" font-weight="bold" fill="#fff">AI</text>
+ </g>
+
+ <g class="float" style="animation-delay:.8s">
+  <rect x="83" y="122" width="64" height="25" rx="7" fill="#161d27" stroke="#fff" stroke-opacity=".11"/>
+  <text x="115" y="138" font-size="9" font-weight="bold" fill="#fff">DSA</text>
+ </g>
+
+ <g class="float" style="animation-delay:1.2s">
+  <rect x="243" y="122" width="64" height="25" rx="7" fill="#161d27" stroke="#fff" stroke-opacity=".11"/>
+  <text x="275" y="138" font-size="9" font-weight="bold" fill="#fff">BUILD</text>
+ </g>
+</g>
+
+<!-- center -->
+<g class="pulse">
+ <circle cx="195" cy="95" r="29" fill="#151b24" stroke="url(#g)" stroke-width="2" filter="url(#glow)"/>
+ <text x="195" y="102" text-anchor="middle" font-family="monospace"
+       font-size="21" font-weight="bold" fill="url(#g)">&lt;/&gt;</text>
+</g>
+
+<text x="195" y="174" text-anchor="middle" font-family="monospace"
+      font-size="7" letter-spacing="2.5" fill="#8d98a8">CODE • CREATE • BUILD</text>
+
+<g fill="#fff">
+ <circle cx="153" cy="20" r="1"/><circle cx="237" cy="21" r="1"/>
+ <circle cx="155" cy="171" r="1"/><circle cx="235" cy="171" r="1"/>
+</g>
+</svg>
