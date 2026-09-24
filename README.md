@@ -62,19 +62,13 @@ I'm a **B.Tech Computer Science student** interested in software development, ba
 
 </td>
 
-<td width="40%" valign="top" align="center">
+<td width="40%" valign="middle" align="center">
 
-### 🌸
-
-```text
-    ✦    .    🌸    .    ✦
-       ╲  │  ╱
-     ──  CODE  ──
-       ╱  │  ╲
-    🌸    │    🌸
-       JAVA • DSA
-      AI • BUILD
-```
+<img 
+  src="./developer-universe-compact.svg"
+  width="390"
+  alt="Developer Universe"
+/>
 
 </td>
 
