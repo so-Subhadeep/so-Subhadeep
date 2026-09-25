@@ -16,16 +16,74 @@ jobs:
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
 
-      - name: 🐍 Generate Sakura Snake
+      - name: 🐍 Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: so-Subhadeep
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23ff69b4&color_dots=%23fff0f6%2C%23ffd6e7%2C%23ffb3d1%2C%23ff80ab%2C%23ff1493
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23ff69b4&color_dots=%230d0712%2C%232a1020%2C%235c1638%2C%23b72e6e%2C%23ff1493
+            dist/snake-base.svg?color_snake=%23ff69b4&color_dots=%23fff0f6%2C%23ffd6e7%2C%23ffb3d1%2C%23ff80ab%2C%23ff1493
 
-      - name: 🌸 Commit generated snake
+      - name: 🌸 Create Sakura animation
+        shell: bash
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+
+          src = Path("dist/snake-base.svg")
+          out = Path("dist/sakura-snake.svg")
+
+          svg = src.read_text()
+
+          effects = r'''
+          <defs>
+            <filter id="pinkGlow">
+              <feGaussianBlur stdDeviation="2.5" result="blur"/>
+              <feMerge>
+                <feMergeNode in="blur"/>
+                <feMergeNode in="SourceGraphic"/>
+              </feMerge>
+            </filter>
+          </defs>
+
+          <g filter="url(#pinkGlow)" opacity="0.95">
+            <circle cx="4%" cy="8%" r="3">
+              <animate attributeName="cy" values="8%;92%;8%" dur="7s" repeatCount="indefinite"/>
+              <animate attributeName="cx" values="4%;12%;4%" dur="7s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;1;0" dur="7s" repeatCount="indefinite"/>
+            </circle>
+
+            <circle cx="22%" cy="0%" r="2.5">
+              <animate attributeName="cy" values="0%;100%;0%" dur="9s" repeatCount="indefinite"/>
+              <animate attributeName="cx" values="22%;30%;22%" dur="9s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;1;0" dur="9s" repeatCount="indefinite"/>
+            </circle>
+
+            <circle cx="48%" cy="5%" r="3">
+              <animate attributeName="cy" values="5%;95%;5%" dur="8s" repeatCount="indefinite"/>
+              <animate attributeName="cx" values="48%;40%;48%" dur="8s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;1;0" dur="8s" repeatCount="indefinite"/>
+            </circle>
+
+            <circle cx="72%" cy="2%" r="2.5">
+              <animate attributeName="cy" values="2%;100%;2%" dur="10s" repeatCount="indefinite"/>
+              <animate attributeName="cx" values="72%;82%;72%" dur="10s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;1;0" dur="10s" repeatCount="indefinite"/>
+            </circle>
+
+            <circle cx="94%" cy="10%" r="3">
+              <animate attributeName="cy" values="10%;95%;10%" dur="7.5s" repeatCount="indefinite"/>
+              <animate attributeName="cx" values="94%;86%;94%" dur="7.5s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;1;0" dur="7.5s" repeatCount="indefinite"/>
+            </circle>
+          </g>
+          '''
+
+          svg = svg.replace("</svg>", effects + "</svg>")
+          out.write_text(svg)
+          PY
+
+      - name: 🚀 Commit Sakura snake
         uses: EndBug/add-and-commit@v9
         with:
           add: "dist"
-          message: "🌸 Update Sakura contribution snake"
+          message: "🌸 Update Sakura animated snake"
