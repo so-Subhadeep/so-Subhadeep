@@ -1,85 +1,26 @@
-name: 🌸 Sakura Contribution Snake
+name: Sakura Contribution Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 🐍 Generate Sakura Snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: so-Subhadeep
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%23ff4d9d&color_dots=%23fff0f6%2C%23ffd6e7%2C%23ffb3d1%2C%23ff80ab%2C%23ff4d9d
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23ff69b4&color_dots=%23ffebf5%2C%23ffcce3%2C%23ff99c2%2C%23ff5c9a%2C%23ff1493
+            dist/snake.svg?color_snake=%23ff69b4&color_dots=%23fff0f6%2C%23ffd6e7%2C%23ffb3d1%2C%23ff80ab%2C%23ff69b4
+            dist/snake-dark.svg?color_snake=%23ff69b4&color_dots=%230d0712%2C%232a1020%2C%235c1638%2C%23b72e6e%2C%23ff69b4
 
-      - name: 🌸 Add Sakura Animation
-        run: |
-          python3 - <<'PY'
-          from pathlib import Path
-          import re
-
-          path = Path("dist/github-contribution-grid-snake-dark.svg")
-
-          if path.exists():
-              svg = path.read_text()
-
-              defs = '''
-              <defs>
-                <filter id="glow">
-                  <feGaussianBlur stdDeviation="3" result="blur"/>
-                  <feMerge>
-                    <feMergeNode in="blur"/>
-                    <feMergeNode in="SourceGraphic"/>
-                  </feMerge>
-                </filter>
-              </defs>
-              '''
-
-              petals = '''
-              <g opacity="0.85">
-                <text x="8%" y="8%" font-size="18">🌸
-                  <animate attributeName="y" values="5%;95%;5%" dur="7s" repeatCount="indefinite"/>
-                  <animate attributeName="x" values="8%;18%;8%" dur="7s" repeatCount="indefinite"/>
-                  <animate attributeName="opacity" values="0;1;0" dur="7s" repeatCount="indefinite"/>
-                </text>
-
-                <text x="35%" y="0%" font-size="15">🌸
-                  <animate attributeName="y" values="0%;100%;0%" dur="9s" repeatCount="indefinite"/>
-                  <animate attributeName="x" values="35%;45%;35%" dur="9s" repeatCount="indefinite"/>
-                  <animate attributeName="opacity" values="0;1;0" dur="9s" repeatCount="indefinite"/>
-                </text>
-
-                <text x="70%" y="10%" font-size="17">🌸
-                  <animate attributeName="y" values="10%;95%;10%" dur="8s" repeatCount="indefinite"/>
-                  <animate attributeName="x" values="70%;60%;70%" dur="8s" repeatCount="indefinite"/>
-                  <animate attributeName="opacity" values="0;1;0" dur="8s" repeatCount="indefinite"/>
-                </text>
-
-                <text x="90%" y="5%" font-size="14">🌸
-                  <animate attributeName="y" values="5%;100%;5%" dur="10s" repeatCount="indefinite"/>
-                  <animate attributeName="x" values="90%;80%;90%" dur="10s" repeatCount="indefinite"/>
-                  <animate attributeName="opacity" values="0;1;0" dur="10s" repeatCount="indefinite"/>
-                </text>
-              </g>
-              '''
-
-              svg = svg.replace("<svg", "<svg", 1)
-              svg = svg.replace(">", ">" + defs + petals, 1)
-
-              path.write_text(svg)
-          PY
-
-      - name: 🚀 Commit Sakura Snake
-        uses: EndBug/add-and-commit@v9
+      - uses: EndBug/add-and-commit@v9
         with:
           add: "dist"
-          message: "🌸 Update Sakura contribution snake"
+          message: "🌸 Update Sakura snake"
