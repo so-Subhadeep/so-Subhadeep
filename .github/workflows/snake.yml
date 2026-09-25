@@ -1,4 +1,4 @@
-name: Sakura Contribution Snake
+name: 🌸 Sakura Contribution Snake
 
 on:
   workflow_dispatch:
@@ -13,14 +13,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Generate Sakura Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: so-Subhadeep
           outputs: |
-            dist/snake.svg?color_snake=%23ff69b4&color_dots=%23fff0f6%2C%23ffd6e7%2C%23ffb3d1%2C%23ff80ab%2C%23ff69b4
-            dist/snake-dark.svg?color_snake=%23ff69b4&color_dots=%230d0712%2C%232a1020%2C%235c1638%2C%23b72e6e%2C%23ff69b4
+            dist/github-contribution-grid-snake.svg?color_snake=%23ff69b4&color_dots=%23fff0f6%2C%23ffd6e7%2C%23ffb3d1%2C%23ff80ab%2C%23ff1493
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23ff69b4&color_dots=%230d0712%2C%232a1020%2C%235c1638%2C%23b72e6e%2C%23ff1493
 
-      - uses: EndBug/add-and-commit@v9
+      - name: 🌸 Commit generated snake
+        uses: EndBug/add-and-commit@v9
         with:
           add: "dist"
-          message: "🌸 Update Sakura snake"
+          message: "🌸 Update Sakura contribution snake"
