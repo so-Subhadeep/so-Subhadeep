@@ -117,40 +117,7 @@ I'm a **B.Tech Computer Science student** interested in software development, ba
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-<img
-src="./profile/github-stats.svg"
-width="420"
-alt="GitHub Stats"
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img
-src="./profile/languages.svg"
-width="420"
-alt="Top Languages"
-/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:DB2777,75:F9A8D4,100:4C1D95&height=2&section=header"
-width="82%"
-/>
-
+  <img src="./profile/github-activity.svg" alt="GitHub Activity">
 </div>
 
 ## 🌸 Contribution Snake
