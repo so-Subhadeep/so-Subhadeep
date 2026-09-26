@@ -57,7 +57,6 @@ I'm a **B.Tech Computer Science student** interested in software development, ba
 * 🚀 Solving problems on **LeetCode**
 * 🤖 Exploring **AI & Data Science**
 * 💻 Building real-world projects
-* 🌸 Creator of **CivicFix AI**
 * 📍 Kolkata, India
 
 </td>
